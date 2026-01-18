@@ -1,1 +1,1 @@
-print("Bot Resamania démarré ...")
+print("🤖 Bot Resamania démarré")
