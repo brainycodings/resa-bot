@@ -1,1 +1,3 @@
-print("🤖 Bot Resamania démarré")
+import sys
+print("🚀 SCRIPT LANCÉ")
+sys.exit(0)
